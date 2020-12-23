@@ -2,9 +2,9 @@
 
 Flutter App with random bible verse & random images from unsplash.
 
-Images Used From : <a href="https://unsplash.com>Unsplash</a>
+Images Used From : <a href="https://unsplash.com">Unsplash</a>
   
-Bible Verse From :  <a href="https://ourmanna.com>Unsplash</a>
+Bible Verse From :  <a href="https://ourmanna.com">Unsplash</a>
 
 # Packages
 http:
