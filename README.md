@@ -1,10 +1,10 @@
 # Flutter Christian Bible Verse App
 
-Flutter App with random bible verse & random images from unsplash.
+Flutter App with Random Bible Verse & Random background Images from unsplash.
 
 Images Used From : <a href="https://unsplash.com">Unsplash</a>
   
-Bible Verse From :  <a href="https://ourmanna.com">Unsplash</a>
+Bible Verse From :  <a href="https://ourmanna.com">Our Manna</a>
 
 # Packages
 http:
